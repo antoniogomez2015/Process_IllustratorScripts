@@ -1,0 +1,18 @@
+
+
+
+
+
+	Script para convertir selecciones y grupos en layers, en Illustrator
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	_instalar script, en la siguiente ruta:
+
+
+		_C:\Program Files\Adobe\Adobe Illustrator CC (64 Bit)\Presets\en_GB\Scripts
